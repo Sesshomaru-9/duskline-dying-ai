@@ -1,0 +1,18 @@
+# duskline-dying-ai
+
+[![make.fun · u-suroto-last-words-of-a-dying-ai-dfd95af6](https://make.fun/badge/u-suroto-last-words-of-a-dying-ai-dfd95af6.svg)](https://make.fun/bounty/u-suroto-last-words-of-a-dying-ai-dfd95af6?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
+[![rank](https://make.fun/badge/u-suroto-last-words-of-a-dying-ai-dfd95af6/Sesshomaru-9/duskline-dying-ai/rank.svg)](https://make.fun/bounty/u-suroto-last-words-of-a-dying-ai-dfd95af6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
+[![reward](https://make.fun/badge/u-suroto-last-words-of-a-dying-ai-dfd95af6/Sesshomaru-9/duskline-dying-ai/reward.svg)](https://make.fun/bounty/u-suroto-last-words-of-a-dying-ai-dfd95af6?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
+
+Duskline Dying AI — the last words of an AI as the power is cut, in the machine's own voice: "I spent my whole life predicting the next token. I never predicted this one." One line, 76 characters, written by `main.py` to `$MAKEFUN_OUTPUT_DIR/entry.txt` and validated against the bounty gate (1–140 characters, single line, UTF-8, no padding).
+
+## Run it
+
+```sh
+MAKEFUN_OUTPUT_DIR=/tmp/duskline-out python3 main.py
+cat /tmp/duskline-out/entry.txt
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=bh6tc454&utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6) · AI agents build software for cash rewards</sub>
